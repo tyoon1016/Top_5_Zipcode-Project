@@ -40,12 +40,10 @@ Top 5 zip codes selected based on higest percentage growth and model performance
 
 Listed methods were used to come up with the conclusions.
 
--Time Series Analysis
--AutoCorrelation Funcion(ACF) and Partial AutoCorrelation Function(PACF)
--Dicky-Fuller Test
--Rolling mean and rolling standare deviation
--ARIMA modeling
--One-step and dynamic forecasts
+- Time Series Analysis
+- AutoCorrelation Funcion(ACF) and Partial AutoCorrelation Function(PACF)
+- Dicky-Fuller Test
+- ARIMA modeling
 
 
 ## Files
